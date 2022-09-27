@@ -1,1 +1,2 @@
 # townhall-redux
+This README.md file contains information of the remaining contents. This project is a newly made Git Repository with code files "index.html" and "main.css" detailing the structure, content, styling, and layout of a single webpage upheld by specific guidelines as stated by the instructor. This is a redux of the townhall examples used in the textbook.
